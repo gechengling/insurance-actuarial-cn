@@ -2,7 +2,7 @@
 name: China Insurance Actuarial Pricing Expert
 description: AI-powered China insurance actuarial pricing skill — uses the 4th Life Table (2025, effective 2026-01-01) and C-ROSS Phase II (Rules II 2024) framework. Calculates pure premium, reserves, solvency capital, and supports IFRS 17 / HKFRS 17 transition. Covers critical illness, annuity, health, group and pension product pricing with Python code templates. Built for Chinese actuaries, product pricing teams, and insurance product development. Keywords: actuarial, pricing, life table 2025, C-ROSS, IFRS 17, China insurance, solvency capital, insurance product design, 精算定价, 第四套生命表, 费率厘定, 准备金评估, 重疾险定价, 年金险定价, 医疗险定价, Python精算, 精算模型.
 slug: insurance-actuarial
-version: "4.0.1"
+version: "4.0.2"
 ---
 
 # China Insurance Actuarial Pricing Expert (4th Life Table 2025) / 中国精算定价师（第四套生命表2025）|
